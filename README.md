@@ -25,7 +25,7 @@ Press ENTER to exit
 
 ## Version
 
-This is curently version 1.0. Please check here for further updates. 
+This is curently version 1.1. Please check here for further updates. 
 
 ## Author
 
