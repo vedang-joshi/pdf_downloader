@@ -13,3 +13,9 @@ This application may be used to download textbooks from a PDF currently circulat
    search for the serial numbers for any particular book. Please input the serial numbers for any book you want, separated by spaces, and 
    these books will be downloaded to the folder from where the user ran this program. Please allow a minute or two for the books to begin downloading as it has to connect to 
   the Springer server first as well.
+  Example run:
+   $ Input the serial number(s) of the books to be downloaded separated by spaces: 1 2 3
+     Fundamentals of Power Electronics has been downloaded
+     Handbook of the Life Course has been downloaded
+     All of Statistics has been downloaded
+     Press ENTER to exit
