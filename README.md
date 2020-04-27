@@ -1,5 +1,5 @@
-Textbook downloader for open source books provided by Springer
-To install:
+#Textbook downloader for open source books provided by Springer
+#To install:
 1. Run the pdf_downloader.exe file and 
 
 
