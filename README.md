@@ -1,6 +1,6 @@
 # Textbook downloader for open source books provided by Springer
 
-This application may be used to download textbooks from a PDF currently circulating 
+This application may be used to download textbooks from a PDF (check **Springer_Ebooks.pdf** above) currently circulating 
   which has links to multiple books hosted by Springer. We aim to make it easier for the general public to avail of these facilities
    without having to manually download all the books. We have included the original PDF to ease the 
    search for the serial numbers for any particular book. Please input the serial numbers for any book you want, separated by spaces, and 
