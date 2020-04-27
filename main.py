@@ -6,7 +6,7 @@ from mechanize import Browser
 import sys
 
 
-with open("textbooks.txt", encoding="utf8") as file:
+with open("Springer Ebooks.txt", encoding="utf8") as file:
     readContentFile = file.read().splitlines()
 
 textString = " ".join(readContentFile)
