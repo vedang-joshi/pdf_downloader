@@ -3,8 +3,7 @@
 This application may be used to download textbooks from a PDF (check **Springer Ebooks.pdf** above) currently circulating 
   which has links to multiple books hosted by Springer. We aim to make it easier for the general public to avail of these facilities
    without having to manually download all the books. We have included the original PDF to ease the 
-   search for the serial numbers for any particular book. Please input the serial numbers for any book you want, separated by spaces, and 
-   these books will be downloaded to the folder from where the user ran this program. Please allow a minute or two for the books to begin downloading as it has to connect to 
+   search for the serial numbers for any particular book. Please input the serial numbers for any book you want, separated by spaces. Please allow a minute or two for the books to begin downloading as it has to connect to 
   the Springer server first as well.
   
 ## Installing
@@ -13,7 +12,7 @@ This application may be used to download textbooks from a PDF (check **Springer 
 2. Click **Yes** in response to the dialog box shown 'Do you want to allow this app to make changes to your device'
 3. This will initiate the installation wizard. You may change the destination folder to withever path you wish. This is where the executable will be downloaded. Click **Install**.
 4. After the installation has concluded click **Close**
-5. Go to the folder named **pdfexecutable** in the directory you specified earlier and click on **main.exe**. This will open the application.
+5. Go to the folder named **pdfexecutable** in the directory you specified earlier and click on **main.exe**. This will open the application. The books will be downloaded to the folder **pdfexecutable**.
 
 ## Demo output
 
