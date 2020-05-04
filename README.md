@@ -7,7 +7,7 @@ This application may be used to download textbooks from a PDF (check **Springer 
   the Springer server first as well.
   
 ## Installing
-1. First, click on **pdf_downloader.exe** from the files in the repository above and click on **Download**
+1. First, click on **pdf_download.exe** from the files in the repository above and click on **Download**
 2. Click **Run Anyway** in response to the Windows Defence pop-up, and circumvent your antivirus to allow the program to run. This is due to the fact that the application has not been signed, but the program is safe.
 2. Click **Yes** in response to the dialog box shown 'Do you want to allow this app to make changes to your device'
 3. This will initiate the installation wizard. You may change the destination folder to withever path you wish. This is where the executable will be downloaded. Click **Install**.
@@ -25,7 +25,7 @@ Press ENTER to exit
 
 ## Version
 
-This is curently version 1.1. Please check here for further updates. 
+This is curently version 2.0. We have included a GUI for easier user access, now allow users to choose their own file path for the download of the textbooks. Please check here for further updates. 
 
 ## Author
 
