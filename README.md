@@ -14,6 +14,10 @@ This application may be used to download textbooks from a PDF (check **Springer 
 4. After the installation has concluded click **Close**
 5. Go to the folder named **pdf_updated_executable** in the directory you specified earlier and click on **pdf_download.exe**. This will open the application. You may choose which folder to download the books to.
 
+**OR**
+1. Click on **pdf_executable_version2.0.zip** from the files in the repository above and click on **Download**.
+2. Unzip the executable file and click on **pdf_download.exe** to launch the application.
+
 ## Input style
 
 $ Input the serial number(s) of the books to be downloaded separated by spaces: 1 2 3 
