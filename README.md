@@ -4,7 +4,7 @@ This application may be used to download textbooks from a PDF (check **Springer 
   which has links to multiple books hosted by Springer. We aim to make it easier for the general public to avail of these facilities
    without having to manually download all the books. We have included the original PDF to ease the 
    search for the serial numbers for any particular book. Please input the serial numbers for any book you want, separated by spaces. Please allow a minute or two for the books to begin downloading as it has to connect to 
-  the Springer server first as well. The program closes automatically when the books have finished downloading.
+  the Springer server first as well. Please check the **User_Interface.JPG** for a pictorial representation of the UI. The program closes automatically when the books have finished downloading.
   
 ## Installing
 1. First, click on **pdf_executable_version2.0.exe** from the files in the repository above and click on **Download**
