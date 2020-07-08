@@ -6,7 +6,7 @@ This application may be used to download textbooks from a PDF (check **Springer 
    search for the serial numbers for any particular book. Please input the serial numbers for any book you want, separated by spaces. Please allow a minute or two for the books to begin downloading as it has to connect to 
   the Springer server first as well. Please check the **User_Interface.JPG** for a pictorial representation of the UI. The program closes automatically when the books have finished downloading.
   
-## Installing
+## Installation for Windows
 1. First, click on **pdf_executable_version2.0.exe** from the files in the repository above and click on **Download**
 2. Click **Run Anyway** in response to the Windows Defence pop-up, and circumvent your antivirus to allow the program to run. This is due to the fact that the application has not been signed, but the program is safe.
 2. Click **Yes** in response to the dialog box shown 'Do you want to allow this app to make changes to your device'
@@ -17,6 +17,10 @@ This application may be used to download textbooks from a PDF (check **Springer 
 **OR**
 1. Click on **pdf_executable_version2.0.zip** from the files in the repository above and click on **Download**.
 2. Unzip the executable file and click on **pdf_download.exe** to launch the application.
+
+## Installation for macOS X
+1. First download **pdf_download.zip** and unzip the file. 
+2. Go to the Unix executable **pdf_download** and run the program.
 
 ## Input style
 
