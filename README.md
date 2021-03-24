@@ -34,7 +34,7 @@ This is curently version 2.0. We have included a GUI for easier user access, now
 
 ## Author
 
-* **Vedang Joshi**  - [Personal Page](https://sites.google.com/view/vjoshi)
+* **Vedang Joshi**  - [Personal Page](https://vedang-joshi.github.io)
 
 
 ## License
